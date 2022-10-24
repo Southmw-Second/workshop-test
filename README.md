@@ -6,7 +6,7 @@ git init
 ```
 (2) 원격 저장소와 연결
 ```
-git remote add 'remote name' 'url'
+git remote add 'remote name' 'url'.
 ```
 
 # 소스 형상관리 방법
